@@ -67,9 +67,9 @@ class Pokemon
                 print "Um Relâmpago McQueen te ultrapassou! KACHOW\n"; 
                 break;
             case 4: 
-                $nome_inimigo = "Jeff Bezos";
+                $nome_inimigo = "Bill Gates";
                 $iv_inimigo = 90; 
-                print "Um Jeff Bezos apareceu para atualizar seu Windows 11!\n"; 
+                print "Um Bill Gates apareceu para atualizar seu Windows 11!\n"; 
                 break;
             case 5: 
                 $nome_inimigo = "SHINY MEGA RAYQUAZA COM 6 IVS PERFEITOS";
